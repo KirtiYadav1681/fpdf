@@ -1,0 +1,17 @@
+.nav{
+    background-color: #0D0D0D;
+    width:100vw;
+    height:8vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+}
+.nav h2{
+    position: absolute;
+    right: 50%;
+    transform: translate(50%);
+    /* color: #EDB01A; */
+    color: white;
+
+}
